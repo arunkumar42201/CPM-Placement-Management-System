@@ -1,0 +1,15 @@
+target/
+bin/
+*.class
+*.jar
+*.war
+*.db
+*.mv.db
+*.trace.db
+data/
+uploads/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
